@@ -9,3 +9,5 @@ update-1.3
 =======
 Practice Branch and Merge.
 >>>>>>> b1e07a54d9297f927b566e3e7dfce3de5264606e
+
+logo alignment center.
